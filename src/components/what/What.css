@@ -1,0 +1,28 @@
+.what-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 100px;
+    gap: 2rem; 
+}
+
+.what-page .home_video {
+    width: 50%;
+    touch-action: manipulation;
+    border-radius: 1rem;
+}
+
+.what-page .right h2{
+    font-size: 35px;
+    font-weight: 600;
+    margin: 10px 0;
+    max-width: 400px;
+    color: #123f61;  
+}
+
+.what-page .right p {
+    margin-bottom: 15px; 
+    position: relative; 
+    padding-bottom: 1rem; 
+}

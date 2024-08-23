@@ -1,0 +1,48 @@
+.why-page {
+    padding: 2rem 0;
+    background-color: white;
+  }
+  
+ .why-page h2{
+        text-align: center;
+        margin-bottom: 2rem;
+        font-size: 2rem;
+        color: #123f61;      
+ } 
+
+  .why-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    padding: 0 10%; 
+  }
+  
+  .section {
+    flex: 1;
+    margin: 0 1rem;
+  }
+  
+  .section h3 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #123f61;
+  }
+  
+  .section p {
+    margin-bottom: 15px; 
+    position: relative; 
+    padding-bottom: 1rem; 
+    color: #333; 
+  }
+  
+  .img-gallery {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%; 
+  }
+  
+  .img-gallery img {
+    width: 30%;
+    border-radius: 10px;
+  }
+  
